@@ -1,0 +1,6 @@
+{
+  "name": "TradeMaster Free",
+  "description": "A comprehensive free educational app for trading strategies, intraday, swing, options, technical analysis, and active practice tools.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
